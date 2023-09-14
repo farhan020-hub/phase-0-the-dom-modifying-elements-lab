@@ -2,8 +2,8 @@
 
 main.remove();
 
-const headerElement = document.querySelector("h1");
-const newHeader = headerElement;
+const header = document.querySelector("h1");
+const newHeader = header;
 
 document.createElement("id");
 newHeader.id = "victory";
